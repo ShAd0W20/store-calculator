@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "TimeWork" ALTER COLUMN "end" DROP NOT NULL;
